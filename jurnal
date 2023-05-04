@@ -1,0 +1,1278 @@
+International Journal of Law and Information Technology, Vol. 22, No. 1 (2014), pp. 49–73
+ The Author (2014). Published by Oxford University Press.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (http://
+creativecommons.org/licenses/by-nc/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided the
+original work is properly cited. For commercial re-use, please contact journals.permissions@oup.com
+doi:10.1093/ijlit/eat016 Published Advance Access January 8, 2014
+
+Hybrid net: the regulatory
+framework of ICANN and
+
+the DNS
+
+Emily M. Weitzenboeck*
+
+Abstract
+The Internet Corporation for Assigned Names and Numbers (ICANN) is
+responsible for the management and coordination of the internet domain
+name and address space, which are critical resources necessary for internet
+
+connectivity. Though international in reach since it cooperates with per-
+sons, organizations and governments in many countries, ICANN was set up
+
+as a private non-profit organization under California law. This article exam-
+ines the role, legal nature and basis of ICANN and the domain name
+
+system (DNS). It first maps and analyses the various regulatory instruments
+underlying ICANN and the DNS. What emerges is that, very often several
+and different modes of regulation, both formal and informal, are required
+to address a particular issue satisfactorily. The article examines whether and
+to what extent these different types of instruments co-exist and interrelate
+as one coherent regulatory framework. To do so, this article draws upon
+Teubner’s notion of hybrid networks and makes an analogy with modern
+
+theories on how various sources of law apply within a legal system. In par-
+ticular, it follows and builds upon Ost and van de Kerchove’s notion of
+
+network or ‘mesh’ regulation. To explain the contractual web at the heart
+*Postdoctoral scholar, Norwegian Research Centre for Computers & Law, Department of Private Law,
+University of Oslo, PO Box 6706 St Olavs plass, 0130 Oslo, Norway; Email: emily.weitzenboeck@jus.uio.no.
+This article was written within the framework of the Igov2 project (http://www.jus.uio.no/ifp/english/
+research/projects/internet-governance/), which is jointly funded by the Norwegian Research Council and
+UNINETT Norid AS. The author thanks Franck Dumortier from the Centre de Recherche Information,
+Droit et Socie ́te ́, University of Namur and my Igov2 project colleagues—Lee Bygrave, Tobias Mahler and
+Kevin McGillivray—who all commented on an earlier draft.
+49
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+of the gTLD namespace, Cafaggi’s notion of contractual networks is
+utilized.
+Keywords: internet governance; domain names; regulation; mesh; ICANN;
+contractual network
+1. Introduction: ICANN and the DNS
+The Internet Corporation for Assigned Names and Numbers (ICANN) is
+
+one of the governors of the internet.1 It is tasked with ‘inter alia’ the man-
+agement and coordination of the Domain Name System (DNS) and,
+
+through its so-called IANA functions,2 it is responsible for the root zone
+management for the DNS and the global coordination of the Internet
+Protocol (IP) address space. As DeNardis explains, the internet domain
+
+name space and the internet address space are ‘critical’ resources for inter-
+net connectivity, with the DNS ‘translating between alphanumeric domain
+
+names and their associated numerical IP addresses necessary for routing
+information across the Internet’.3
+In view of the critical nature of these resources, the role, legal nature and
+basis of the organization tasked with their management and co-ordination—
+ICANN—is significant. ICANN is a private law organization set up in 1998 as
+a non-profit public benefit corporation under Californian law. It is not an
+international organization set up under public international law. However, it
+is international in the sense that its Articles of Incorporation and Bylaws
+mandate cooperation with organizations and persons in many countries as
+well as governments.4 ICANN is a creature of private law although it was
+originally set up by an agreement with the US Department of Commerce
+(DOC). Yet the picture is more complex than that. As this article shows, an
+elaborate web of contracts and more informal documents underlie ICANN’s
+
+set-up and the relations with the various private entities and national autho-
+rities with which it deals. This complexity extends to the regulation of the
+
+DNS where a variety of regulatory instruments—contractual and statutory,
+formal and informal, legal and non-legal—are used.
+One question that arises is how do these various instruments operate
+together. Another question is whether they can be read together as a
+1 There are several others bodies such as the Internet Society (ISOC), the Internet Engineering Task Force
+(IETF), the Internet Architecture Board (IAB), the Internet Engineering Steering Group (IESG), the Internet
+Research Task Force (IRTF), the World Wide Web Consortium (W3C) and the Internet Assigned Numbers
+Authority (IANA). See further LA Bygrave and T Michaelsen, ‘Governors of the Internet’ in LA Bygrave and J
+Bing (eds), Internet Governance: Infrastructure and Institutions (OUP 2009) 95–114. 2 ICANN carries out the IANA-functions under contract with the US Department of Commerce. See
+<http://www.ntia.doc.gov/page/iana-functions-purchase-order>. See further <http://www.iana.org/>.
+Unless otherwise stated, references to the law and to URLs are as of 15 November 2013. 3 L DeNardis, Protocol Politics: The Globalization of Internet Governance (MIT Press 2009) 14. 4 See, especially, art 4 of ICANN’s Articles of Incorporation and art 1 of the Bylaws.
+
+50
+EMILY M. WEITZENBOECK
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+coherent legal framework. To answer these questions, this article draws an
+analogy with modern theories on how various sources of law apply within a
+legal system. In particular, it builds upon Ost and van de Kerchove’s notion
+of network or ‘mesh’ regulation.5 In order to do this, the main regulatory
+
+instruments of ICANN and the DNS are first identified. In order to under-
+stand the private ordering of ICANN, it bears highlighting that it is not
+
+enough to examine the corporation’s formal organization as a private law
+foundation under Californian law; account must also be taken of its external
+relations with private actors such as registrars and registries as well as various
+
+public law actors such as the US government and the many national autho-
+rities with whom an elaborate network of formal and informal arrangements
+
+has gradually been built.6 Indeed, ICANN’s regulatory framework has been
+described as an example of ‘self-constitutionalization without a state’.7
+To understand the role, legal nature and basis of ICANN, this article starts
+by mapping and analysing the various regulatory instruments underlying it
+(Section 2) and the DNS which it is tasked to co-ordinate (Section 3). The
+
+type of instrument used and the extent to which it is binding is also exam-
+ined. To explain the contractual web at the heart of the gTLD namespace,
+
+Cafaggi’s notion of contractual networks is utilized.8 The article then dis-
+cusses the question of whether and to what extent these different types of
+
+instruments co-exist and interrelate as one coherent regulatory framework.
+It does so by drawing first upon Teubner’s notion of hybrid networks
+(Section 4) and then upon Ost and van de Kerchove’s theory of network
+or mesh regulation (Section 5).
+2. The first strands of the net: legal basis and
+structure of ICANN
+An intricate web of contracts and more informal agreements underlie
+ICANN’s set-up and the relations with the various entities with which it
+deals. Put briefly,9 ICANN was set up in response to a call by the US DOC
+for a new entity to assume the primary responsibility for the management of
+internet names and addresses.10 This was done through a Memorandum of
+
+Understanding (MOU) between ICANN and the DOC which was subse-
+quently amended six times, replaced by a Joint Project Agreement in 2006
+
+and, upon its expiry, by an Affirmation of Commitments (AOC) in 2009.
+5 F Ost and M van de Kerchove, De la pyramide au re ́sau? Pour une the ́orie dialectique du droit (Faculte ́s
+Universitaires Saint-Louis Bruxelles 2002). 6 This is also the view of Teubner. See G Teubner, ‘Constitutionalising Polycontexturality’ (2011) 20 Soc
+Legal Stud 210, 222. 7 ibid 220.
+8 See Section 3.2.
+9 See further ML Mueller, Ruling the Root: Internet Governance and the Taming of Cyberspace (MIT Press 2002)
+163–84. 10 See NTIA, ‘Management of Internet Names and Addresses (‘White Paper’), 5 June 1998.
+
+51
+
+THE REGULATORY FRAMEWORK OF ICANN AND THE DNS
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+The judicial enforceability of the AOC has been described as dubious with at
+least two scholars claiming that it is probably not a valid contract.11
+Besides the AOC, the legal basis of the ICANN–DOC relationship today
+rests on another agreement: that for the performance of the IANA functions
+described earlier. ICANN took over the IANA functions from the University
+of Southern California (USC), which had been operating IANA as a research
+project, through a so-called ‘Transition Agreement’ between ICANN and
+the USC in 1998.12 It should be noted that originally, there was a third
+agreement on which the legal basis of ICANN–DOC rested, namely, the
+
+Cooperative Research and Development Agreement (CRADA) on the secur-
+ity and robustness of the DNS root server,—which agreement has since
+
+lapsed.13
+Another document worth noting is the MOU Concerning the Technical
+Work of IANA between ICANN and the IETF signed on 1 March 2000 and
+since supplemented by several Supplement Agreements. The IETF is the
+
+principal body engaged in the development of new internet standard spe-
+cifications. The status of the MOU may at first appear unclear as it seems to
+
+lay down obligations solely for IANA/ICANN, raising the doubt whether it is
+a valid contract since there is no element of exchange.14 However, a closer
+reading of Section 4.1 reveals that for IANA to assign and register the IPs and
+parameters, it needs to follow the criteria and procedures of the documents
+drawn up and specified by the IETF (RFCs,15 Proposed and Internet
+Standards, etc). That section leaves open the possibility for the development
+(by the IETF) of further criteria and procedures to be adopted by IANA
+
+when so instructed by the Internet Engineering Steering Group, a manage-
+ment committee of the IETF. The argument could thus be made that for
+
+IANA to continue performing its undertakings in Section 4.1, the IETF must
+continue with the production of standards and the development of any
+
+missing criteria and procedures over time. In fact, the subsequent supple-
+mental agreements specifically and, very often, in meticulous detail, specify
+
+other criteria and procedures that were since developed by IANA and the
+IETF. The element of consideration is thus present and the MOU is a valid
+contract.
+11 Froomkin claims the AOC is probably not a valid contract because of lack of consideration. See AM
+Froomkin, ‘Almost free: An analysis of ICANN’s “Affirmation of Commitments”’ (2011) 9 JTHTL 187, 199–
+203. Bygrave queries this claim but notes other problems with the AOC, namely (i) the lack of clear statutory
+authority enabling the DOC to bind itself and (ii) the AOC’s ‘probable lack of mutual enforceability given the
+vagueness of much of what each party promises’. See LA Bygrave, ‘Contract Versus Statute in Internet
+Governance’ in I Brown (ed), Research Handbook on Governance of the Internet (Edward Elgar Publishing 2013)
+168, 176–77. 12 See <http://www.icann.org/en/about/agreements/usc-icann-transition>. 13 See art 11.11 which linked the duration of CRADA to the terms of the Statement of Work which lapsed on
+30 June 2002. See ‘Amendment 2’ at <http://www.icann.org/en/about/agreements>. 14 In common law, a promise will not be enforceable unless it is supported by consideration. Thus, for a
+promise (offer) to be legally binding, it must seek something (or some action) in return (quid pro quo). 15 A Request for Comments (RFC) is a document which describes technical or organizational information
+about the internet, and include the technical specifications and policy documents produced by the IETF.
+
+52
+EMILY M. WEITZENBOECK
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+Though ICANN’s ties with the US government are due to the history of
+the internet—the internet was after all born in the USA and that is also
+where the DNS was first devised16—the links with the USA are more than
+just historical. The first three aforementioned legal documents require
+ICANN to maintain the control of its operations physically in the USA.
+
+CRADA gave the DOC the right to terminate the contract if ‘direct or indir-
+ect control’ of ICANN was ‘transferred to a foreign company or govern-
+ment’.17 The latest IANA Contract18 goes even further and requires that
+
+ICANN shall be a wholly US-owned firm operating, incorporated and orga-
+nized under US law. It also specifies that the primary IANA functions are to
+
+be performed in the USA, and that ICANN, as contractor, shall maintain,
+throughout the performance of the contract, a physical address in the USA.
+Moreover, all primary obligations and systems must remain within the
+USA.19 Similarly, in the AOC, one of ICANN’s affirmations is to remain a
+non-profit corporation headquartered in the USA though the same clause
+also seeks to counteract the impact of this by stating that ‘ICANN is a private
+organization and nothing in this Affirmation should be construed as control
+
+by any one entity’.20 Through these provisions, I would argue, the US gov-
+ernment wants to ensure that it maintains jurisdictional control and, more
+
+importantly, enforcement ability over ICANN. In other words, the fact that
+ICANN has a physical presence and carries out its main business operations
+in the USA in effect means that the DOC may easily take action through the
+US court system and enforce any court judgment or injunctions on ICANN.
+Besides the abovementioned four documents, there are also ICANN’s
+constitutive documents, that is, ICANN’s Articles of Incorporation and its
+Bylaws. These two documents were attached to the original MOU between
+ICANN and the DOC and also the AOC, though the Bylaws have been
+
+amended since then.21 The Bylaws contain detailed rules on ICANN’s mis-
+sion and core values and the composition of its Board. They also set up the
+
+various supporting organizations such as the country-code names support-
+ing organization (ccNSO), the generic name supporting organization
+
+(GNSO), advisory committees and the nominating committee.
+ICANN’s key internal documents also include two soft-law instruments:
+ICANN’s Code of Conduct for voting and non-voting Board members, as
+
+16 This was the brainchild of Jon Postel, Paul Mockapetris and Craig Partridge. See further J Bing ‘Building
+Cyberspace: A Brief History of the Internet’ in LA Bygrave and J Bing (eds), Internet Governance: Infrastructure
+and Institutions (OUP 2009) 8, 35. 17 See art 8.2. 18This came into effect on 1 October, 2012. See further K McGillivray, ‘Give It Away Now? The Future Role of
+the IANA Functions Contract in Internet Governance’ in this volume. 19 See Clause C.2.1. 20 See, in particular, Affirmation 8(b). 21 The latest amendment to the Bylaws was on 11 April 2013. See <http://www.icann.org/en/about/gov
+ernance/bylaws#I>.
+
+53
+
+THE REGULATORY FRAMEWORK OF ICANN AND THE DNS
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+well as ICANN’s Conflict of Interest Policy.22 The latter is directed at officers,
+directors, board liaison and key employees of ICANN.
+3. Further strands: structure of the DNS
+3.1 – The domain namespace
+
+As stated in the introduction, within ICANN’s IANA remit is the coordin-
+ation of the DNS with the main objective being to ensure that every internet
+
+address is unique and that the users of the internet can find all valid
+addresses. A domain name is a unique identifier for an IP address or
+number in a mnemonic form. There are two categories of top-level
+domain names: generic top-level domains (gTLDs)23 and the set of two
+
+letter country code top-level domains (ccTLDs). The initial general frame-
+work of the DNS system structure and delegation was documented by Jon
+
+Postel in RFC 1591.24 Since May 1999, ICANN/IANA follows ICP-1: Internet
+DNS Structure and Delegation which lays down IANA’s current practices in
+administering ‘inter alia’ RFC 1591.
+With the opening of the top-level domain in the new gTLD program, 1930
+applications for new gTLDs were filed in spring 2012. Since November 2009,
+ccTLDs may apply for Internationalized Domain Names (IDNs) in scripts
+other than US-ASCII.25 The new gTLD program also allows for the first time
+the addition of IDN gTLDs into the root zone.26
+3.2 – Contractual network of the gTLD namespace
+Governance of the gTLD namespace is contractual, with a web of contracts
+
+spun between, respectively, ICANN, registries, registrars, data escrow pro-
+viders and eventually between the registrants and the registrars with which
+
+they deal. The management of the ccTLD varies with some countries having
+opted for a formal contractual arrangement with ICANN while others have
+preferred an informal arrangement. Some countries also have statutory
+regulation of their ccTLD. The regulatory framework of the gTLD and
+the ccTLD namespace are examined in more detail in this section and
+the next.
+
+22 These are available at, respectively, <http://www.icann.org/en/groups/board/governance/code-of-
+conduct> and <http://www.icann.org/en/news/announcements/announcement-2-15may12-en.htm>. 23 As at 8 October 2013, there are 60 in ASCII (the American Standard Code for Information Interchange—
+
+ASCII—is a character-encoding scheme originally based on the English alphabet). See <http://www.icann.
+org/en/about/agreements/registries>. 24 On RFC 1591, L Bygrave, S Schiavetta, H Thunem, AB Lange and E Phillips, ‘The Naming Game:
+Governance of the Domain Name System’ in L Bygrave and J Bing, Internet Governance: Infrastructure and
+Institutions (OUP 2009) 158, 186–87. 25 See further <http://www.icann.org/en/resources/idn>. 26 See further <http://www.icann.org/en/resources/idn/fast-track/string-evaluation-completion>.
+
+54
+EMILY M. WEITZENBOECK
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+between registries and registrars will thus be possible under the new gTLD
+regime.30
+In addition, the ICANN-RA contains, ‘inter alia’, as an appendix: (i) a
+standard draft of a Zone File Access Agreement that a Registry must enter
+into with any third-party requesting zone file access; and (ii) a service-level
+agreement or a description of the functional and performance specifications
+which the Registry undertakes to uphold. Registries for gTLDs maintain
+DNS zone files that contain resource records for the domain names that
+are active within those gTLDs.
+There is not merely a ‘web of contracts’ in the sense of a set of loosely
+related contracts between various actors (such as registries, registrars, escrow
+providers) and ICANN to regulate the gTLD namespace. Some parts of this
+web actually form a ‘contractual network’. As Cafaggi observes, ‘it is not
+sufficient to have a multiplicity of linked contracts for a contractual network
+to emerge’.31 More is required:
+there has to be (1) a strong collective interest to pursue (2) a common
+objective, and (3) a high level of interdependence among the contracts
+and the activities performed through contracts.32
+
+One utility of contractual network theory is that it helps elucidate how con-
+tracts are interlinked and hence, whether and the extent to which one can
+
+make cross-references between such contracts to assist in their interpret-
+ation. Another utility is that it helps address doctrinal difficulties created
+
+by the notion of privity of contract33 or, as it is known in civil law jurisdictions,
+the relativity of contracts.34 The doctrine of privity appears to be a major
+stumbling block to recognizing rights for parties in other linked contracts
+but who are, technically speaking, extraneous to the bilateral contract that
+has been breached. A typical example of such an extraneous party would be
+the registrant vis-a`-vis an ICANN-RA.
+In effect, the backbone of the DNS is made up of a set of interdependent,
+bilateral linked contracts. With respect to each respective gTLD, due to the
+30Current gTLD registry agreements prohibit registries from acquiring directly or indirectly more than 15%
+of a registrar—see ‘New gTLD Program Explanatory Memorandum: Registry-Registrar Separation’ of February
+2009, ch 2 at <https://archive.icann.org/en/topics/new-gtlds/regy-regr-separation-18feb09-en.pdf>. 31 F Cafaggi, ‘Contractual Networks and Contract Theory: A Research Agenda for European Contract Law’
+in F Cafaggi (ed) Contractual Networks, Inter-firm Cooperation and Economic Growth (Edward Elgar 2011) 66, 74. 32 Cafaggi (n 31) 74. 33 Briefly stated, contractual privity means that contracts are binding only between the parties thereto and
+cannot be enforced either by or against third parties. However, the Contracts (Rights of Third Parties) Act 1999
+introduced an exception to this doctrine in English law such that a third party may acquire enforceable rights
+under a contract if, and to the extent that, the parties to the contract so intend. See HG Beale (gen ed), Chitty on
+Contracts - Vol 1: General Principles (including 3rd cumulative supplement of 2011, 30th edn, Sweet & Maxwell
+2008) para 18–001. Similarly, most civil-law jurisdictions recognize so-called contracts for the benefit of a third
+party. See eg BS Markesinis, H Unberath and A Johnston, The German Law of Contract: A Comparative Treatise
+(2nd edn, Hart Publishing 2006) 186–203. 34 See eg art 1165, French Civil Code. This is also the main rule in Norway – see Rt 1997 p 1322 referred in G
+Woxholth, Avtalerett (8th edn, Gyldendal Akademisk 2012) 167.
+56
+EMILY M. WEITZENBOECK
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+tree-like structure of the DNS, there is a vertical linked contractual network
+between the ICANN-RA, RRA and the registration agreement between the
+registrar and registrant as Figure 1 shows.
+However, the contractual network is more complex than this, with at
+
+least35 two other sub-networks linked to the vertical bilaterally-linked con-
+tractual network:
+
+(i) The contractual network between ICANN, the registry and the escrow
+agent which comprises the ICANN-RA and ICANN’s third-party
+registry data escrow agreement (Figure 2).
+(ii) A mirror contractual network to that in (i) above between ICANN,
+the registrar and the escrow agent (Figure 3).
+ICANN
+
+gTLD
+Registry
+RA
+
+Registrar
+RRA
+
+Registrant
+Registration
+Agreement Legend: The arrows
+link the parties to a
+contract.
+Figure 1. Vertical bilaterally-linked contractual network
+
+RA
+
+ICANN Registry
+
+Escrow Agent
+
+Registry Data
+Escrow
+Agreement
+
+Legend: The arrows
+link the parties to a
+contract.
+
+Figure 2. Sub-contractual network between ICANN, Registry and Escrow
+Agent
+35 The contractual web becomes more complex in those cases where a registrar has entered into a registrar
+reseller agreement with a reseller(s) with respect to the resale of domain names to and from registrants.
+
+57
+
+THE REGULATORY FRAMEWORK OF ICANN AND THE DNS
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+When the sub-contractual networks in Figures 2 and 3 are combined, a more
+complex contractual network is observed between ICANN, the Registry,
+the Registrar and the Escrow Agent contractual network. Besides the RA,
+
+the RAA and the two escrow agreements, Figure 4 also shows another agree-
+ment: the RRA shown in Figure 1.
+
+All the three elements of a contractual network identified by Cafaggi,
+namely (i) a strong collective interest, (ii) a common objective and (iii) a
+
+RAA
+ICANN Registrar
+
+Escrow Agent
+
+Registrar Data
+Escrow
+Agreement
+
+Legend: The arrows
+link the parties to a
+contract.
+
+Figure 3. Sub-contractual network between ICANN, Registrar and Escrow
+Agent
+
+ICANN Registry
+
+Registrar Escrow
+Agent
+
+RA
+
+Registrar Data
+Escrow Agm
+
+Registry Data
+Escrow Agm
+
+RRA
+
+RAA
+
+Legend: The arrows
+link the parties to a
+contract.
+
+Figure 4. Contractual network between ICANN, Registry, Registrar and
+Escrow Agent
+
+58
+EMILY M. WEITZENBOECK
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+high level of interdependence, are met in the case of each respective gTLD.
+There is a strong collective interest of all the various contractual parties to
+pursue the common objective of regulating and operating the respective
+gTLD in a manner which works, observing the tree-like structure of the TLD
+(here the relevant parties are ICANN, the registry, the registrar and the
+registrant) and ensuring security of the registration data (here the relevant
+parties are ICANN, the registry, the registrar and the third-party escrow
+agent). To achieve (i) and (ii) aforementioned, there is a high level of
+interdependence between the various contracts and the activities performed
+under such contracts, as discussed above and as Figures 1–4 illustrate. The
+existence of these contractual networks in Cafaggi’s sense implies that
+the contracts forming a contractual network could be read together to
+give coherence to the underlying legal framework such as, for example, to
+understand the extent of a party’s obligations.
+Moreover, a strong argument can be made that there is also a contractual
+network for the entire gTLD namespace or, perhaps more precisely, there
+are two contractual webs: (i) the contractual web for the gTLDs issued under
+
+the old system (ie not including the new gTLD program), and (ii) the con-
+tractual web for the new gTLDs under the new program. This makes for a
+
+multifaceted regulatory structure. However, it also highlights the significant
+help that contractual network theory as proposed by Cafaggi provides in
+trying to seek coherence in this web.
+From the above it is clear that the preferred regulatory tool for the gTLD
+namespace is contract. This massive reliance on contract, with ICANN being
+the focal node of the network, shows the growing influence of ICANN as the
+principal and dominant actor in the regulation of the gTLD namespace.
+ICANN is indeed the protagonist here: it is the main drafter of the regulatory
+mechanisms, that is, of the various contracts used in this web. Not only that,
+
+but also all of the other actors—whether offering services in the gTLD name-
+space (eg registries, registrars) or wanting to register a gTLD (ie regis-
+trants)—do not have much option but to accept such terms with little
+
+leeway, if any, should they want to operate in the gTLD namespace.
+3.3 – The ccTLD namespace
+Historically the delegation of ccTLDs has been informal, with several
+ccTLDs delegated by Jon Postel without any formal agreement. ICANN
+has formalized relationships with a few ccTLD managers (eg .au, .jp and
+.ke) through formal ‘Sponsorship Agreements’.
+After considering the ‘Guidelines for ccTLD managers Accountability
+Framework discussions with ICANN’ developed by the ccNSO, ICANN has
+sought to document its existing relationship with ccTLDs through the use of
+either of two mechanisms, in the absence of a formal agreement.36 One
+36 See <http://www.icann.org/en/news/announcements/announcement-12feb06-en.htm>.
+
+59
+
+THE REGULATORY FRAMEWORK OF ICANN AND THE DNS
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+option is an Accountability Framework document which not only contains
+clauses stating the obligations of a ccTLD manager and ICANN, but is also
+meant to cover dispute resolution and termination. It was designed ‘to cater
+to those ccTLD managers who require a more “formal” document with
+
+ICANN’.37 In actual fact, although it is also meant to cover dispute reso-
+lution, some of the ccTLDs chose not to include such a clause in their
+
+Accountability Framework.38
+The other option is the use of an exchange of letters which has even less
+
+formal language than the Accountability Framework. The legal enforceabil-
+ity of such letters is dubious, to say the least. In fact, several exchanges of
+
+letters contain a clause stating that the letters ‘will not form the basis for any
+claim for any legal or equitable relief, or create reliance on the part of either
+party’ and that ‘nothing contained in this letter shall give rise to any liability,
+monetary or otherwise’ by one party towards the other. Such clauses appear,
+for example, in the exchange of letters between ICANN and the ccTLD
+manager of, respectively, Norway, the UK, Luxembourg, Austria and
+Brazil.39 Other countries have variants of this clause but the main thrust of
+such exchange of letters seems to be their declaratory and informal nature.
+
+Clauses like the abovementioned make it clear that the parties have no in-
+tention to be legally bound and hence such letters are not contractually
+
+binding.40
+Though not as informal as the exchange of letters, the legal bite of the
+Accountability Framework is rather weak as it also contains, as one of its
+standard clauses a ‘no monetary liability’ clause similar to the one found
+in the exchange of letters. Moreover, as abovementioned, in the case of
+
+countries that have opted out of having a dispute resolution clause,41 a fur-
+ther clause was added to emphasize that it was not the intention of the
+
+parties to use litigation as a form of dispute resolution and that the parties
+are to use their best endeavours to resolve any dispute.
+Many ccTLD managers have opted for either of the abovementioned two
+informal mechanisms. This is evidence of their reluctance to have a formal,
+legally binding contract with ICANN regarding their management of the
+ccTLD. What most ccTLD managers embrace, though, is the principle of
+subsidiarity. The White Paper recognized the role that national governments
+have in ‘manag[ing] or establish[ing] policy for their own ccTLDs’.42 This
+principle was incorporated in both the ICANN’s MOU with the DOC and in
+other documents, most notably RFC 1591, ICP-1 (Internet Co-ordination
+
+37 ibid. 38 See clause I in the Accountability Framework with Ecuador, Mexico, Costa Rica (http://www.icann.org/
+en/about/agreements/cctlds). 39 A copy of these letters is available at <http://www.icann.org/en/about/agreements/cctlds>. 40 Bygrave concurs. See (n 11) 175. 41 See n 38. 42 See n 10.
+
+60
+EMILY M. WEITZENBOECK
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+Policy 1)43 and the ‘Principles and guidelines for the delegation and admin-
+istration of country code top level domains’ adopted by the Governmental
+
+Advisory Committee (GAC) for ICANN. The latter principles state that:
+... ccTLD policy should be set locally, unless it can be shown that the
+issue has global impact and needs to be resolved in an international
+framework. Most of the ccTLD policy issues are local in nature and
+
+should therefore be addressed by the local Internet Community, accord-
+ing to national law.44 (Article 1.2)
+
+This principle of subsidiarity has been transposed, practically ‘verbatim’,
+in a number of the ICANN–ccTLD Exchanges of Letters.45 One could say
+that in such cases subsidiarity applies in lieu of a formal agreement with
+ICANN.
+Although the management of a ccTLD is in the hands of the respective
+ccTLD manager, registrations in the second level and other levels further
+from the TLD are managed on lines similar to that of second-level gTLDs,
+that is, through agreements between the ccTLD registry and registrars, with
+the latter assisting registrants in the registration of their domain names.
+However, in the case of ccTLDs, there is no system of ICANN accreditation
+of registrars. It is normally the respective ccTLD registry which accredits its
+registrars. Moreover, as explained above, the role of contracts here is more
+modest than it is in the regulation of the gTLD namespace.46 In effect, the
+management of the country-code namespace is in the hands of the ccTLD
+manager, in the spirit of the principle of subsidiarity abovementioned. Some
+
+ccTLDs have a rather liberal policy with the types of domain names regis-
+tered, and with regards to who is allowed to register a domain name (eg
+
+Austria). Other ccTLDs are more restrictive in their policy. Thus, for ex-
+ample, to register a domain name under .no, a business must first be regis-
+tered in the register of business entities in Norway, whereas a private
+
+individual may only be registered under the priv.no domain provided he
+or she is 18 years or older and has a Norwegian identity number.47
+Some ccTLD regimes have a statutory footing. Thus, for example,
+Norway’s Domain Name Regulations,48 issued under the authority of the
+Electronic Communications Law,49 establish the role of the registry (Norid)
+and registrars and requires that an applicant for a domain name signs a
+declaration confirming certain facts (eg that the domain name is not in
+43 ICP-1: Internet Domain Name System Structure and Coordination (ccTLD Administration and
+Delegation)(May 1999), see <http://www.icann.org/en/resources/cctlds/delegation>. 44 <http://archive.icann.org/en/committees/gac/gac-cctld-principles.htm>. 45 See eg the exchange of letters regarding .no, .uk, .lu and .at. Other ccTLD managers like AFNIC (.fr)
+opted to refer to the GAC principles and guidelines in toto. 46 See also Bygrave (n 11) 180. 47 See further <http://www.norid.no/domeneregistrering/registrere.en.html>. See also Bygrave and
+others (n 24) 172–212. 48 Forskrift om domenenavn under norske landkodetoppdomener (abbreviated as domeneforskriften) of 1 August 2003. 49 Lov av 4. juli 2003 nr 83 om elektronisk kommunikasjon (abbreviated as ekomloven).
+
+61
+
+THE REGULATORY FRAMEWORK OF ICANN AND THE DNS
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+breach of the law, does not infringe third-party rights, etc) It also sets up an
+ADR committee to hear domain name disputes. Anyone wanting to register
+a domain name in Norway has to apply via one of Norid’s approved list of .no
+registrars.
+Just before the opening of the gTLD namespace under the new gTLD
+program, there were by far fewer gTLDs50 than ccTLDs.51 With the opening
+of the new gTLD namespace, this situation will be reversed. From holding a
+considerable portion of the DNS, ccTLD managers will hold a minority of
+the whole domain namespace. Whether this will indeed strengthen ICANN’s
+position and regulatory clout will likely depend on the extent to which the
+ccTLD managers, in the event of a divergence of opinion with ICANN, have
+effective backing from their respective state as well as from the advisory
+committee representing the states within ICANN—the Governmental
+Advisory Committee (GAC). It may also lead to contract becoming the
+main regulatory tool of the whole DNS with, of course, the consequence
+that ICANN will play a more dominant role as the common and constant
+contractual partner in any such eventual regulatory framework.
+4. Hybrid net
+4.1 – Complexity of the legal landscape
+
+The previous two sections of this article analysed the various regulatory in-
+struments underlying ICANN and the DNS. The next issue to consider is
+
+whether and how these different types of instruments may co-exist and inter-
+relate as a coherent regulatory framework.
+
+What is immediately obvious is the complexity of the regulatory frame-
+work, both with regards to the types of regulatory mechanisms used—ran-
+ging from hard to ‘soft’ law—as well as in the sheer quantity of mechanisms
+
+used. Both ICANN and the DNS are examples of intricate network structures
+composed of a variety of ‘hybrid’ elements. The notion of hybridity is useful
+to elucidate the complexities of elaborate networks. The term ‘hybrid’ ‘is a
+combination of a contradictory difference, marked not by either/or, but by
+both-and. It is this both-and that will guide the search for new tendencies in
+law and society’.52 Hybrids are ‘the combination of both sides of [a]
+difference’.53
+
+50 As at March 2013, there were 22 gTLDs. 51 An updated list of ccTLDs is available at <http://www.iana.org/domains/root/db>. As at 9 October
+2013, there are 250 ccTLDs in ASCII. 52 I-J Sand, ‘Hybrid law – Law in a global society of differentiation and change’ in Festschrift fu ̈r Gunther Teubner
+zum 65. Geburtstag (De Gruyter Recht 2009) 871, 874. 53 G Teubner, ‘In the Blind Spot: The Hybridization of Contracting’ (2007) 8 Theo Inq L 51, 62.
+
+62
+EMILY M. WEITZENBOECK
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+The mechanisms used may be grouped under the following regulatory
+types:
+(i) private law regulation
+(ii) public law regulation
+(iii) private–public arrangements
+(iv) self-regulation
+(v) technical code or lex informatica
+A further dimension to the above list is the international element, namely
+‘private international law’ since in some cases different national laws may be
+applicable.
+As mentioned earlier, ‘private law regulation’54 is predominant in the
+legal basis of ICANN as well as in the gTLD namespace where a complex
+
+web of contracts is used between ICANN, the registries, registrars and third-
+party escrow agents. Contracts and less formal55 private law mechanisms are
+
+also used, though to a lesser degree, in the regulation of the ccTLD name-
+space as between registries and registrars.
+
+‘Public law’ also plays a significant role, both in the vexed question of the
+role of the US government, through the DOC, in ICANN and hence its
+influence on internet governance, as well as in the role of the national
+
+authorities56 in the governance of the DNS. The AOC shows a gradual di-
+minishing of influence of the DOC and has been described as having more a
+
+political than contractual importance.57 Nevertheless, the requirement in
+the AOC and IANA contracts for ICANN’s physical presence in the USA as
+well as that its primary operations are to be in the USA is significant. As
+discussed earlier, it anchors ICANN physically in the territory of the USA,
+potentially vesting the USA with jurisdictional and enforcement powers well
+beyond the subject-matter of these three agreements.58 Coupled with the
+DOC’s role in auditing and approving any changes in the root file zone that
+IANA makes, this further evidences US political oversight of ICANN.59
+Another observation that can be made about the complexity of these
+networks is with regards to the ‘private-public overtones’. Though ICANN
+54 By ‘private law regulation’ is meant regulation that is voluntarily agreed to by private actors, the most
+common example of which is contract. 55 See section 3.3 on exchanges of letters and Accountability Frameworks. 56 See further section 3.3. 57 See Froomkin (n 9) 223. 58 There have been instances of domain name seizures by the US Department of Homeland Security, eg the
+seizure of www.rojadirecta.com though that site had previously been found to be operating legally by Spanish
+courts—<http://www.huffingtonpost.com/2011/02/02/rojadirecta-org-seized_n_817458.html>. Through
+its IANA function, ICANN is responsible for the root zone management of the DNS. Verisign Inc., also
+based in the USA, is the root zone maintainer. A domain name seizure warrant issued by any US court may
+thus be easily enforced on Verisign Inc as the root zone maintainer as well as the registrar of some of the most
+
+popular TLDs like .com. Likewise, ICANN’s physical presence in the USA also brings it within easy enforce-
+ment reach of US authorities. 59See also M Mueller, Networks and States: The Global Politics of Internet Governance (MIT Press 2010) 63.
+
+63
+
+THE REGULATORY FRAMEWORK OF ICANN AND THE DNS
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+is set up as a private law organization, it originated in the public call made by
+the US DOC in the White Paper for a new corporate entity to take over
+primary responsibility for managing the DNS.60 ICANN’s contract with the
+DOC with respect to the IANA functions and the AOC are other facets of the
+
+private–public character of the ICANN–DOC relationship. This type of com-
+plexity may also be seen in the regulatory framework of the DNS at the
+
+national level in those countries where the state has set up a private entity
+to govern its ccTLD namespace, while at the same time retaining some sort
+of stake in that private entity. Thus, for example, the administration of the
+
+.no namespace is in the hands of UNINETT Norid AS, a non-profit share-
+holder company owned by the Norwegian state.61
+
+The regulation of the DNS is not just through legally binding norms.
+Technical actors use computer code as the technical backbone of cyberspace
+(lex informatica).62 Much of the technical rules underlying the technical
+structure and function of the internet are extra-legal in the form of policy,
+
+internet standards, best current practices and other ‘self-regulatory mech-
+anisms’.63 As Sand explains, ‘[t]he concept of soft law has been produced by
+
+both public and private law in formulating more or less specific guidelines,
+but with an unclear legal status’.64 Some authors claim that such instruments
+are not law but ‘only a social notion close to law’65 but others argue that they
+‘are nevertheless commonly seen as a type of law... because they are aimed
+
+at and capable of having some practical effect on conduct’.66 Arnaud de-
+scribes the soft law phenomenon as infra-droit (literally ‘below law’) and
+
+holds that what is not law in the strict sense nevertheless participates in
+the legal phenomenon lato sensu.
+67
+
+Further complexity may arise from the potential application of different
+national laws to similar facts due to the operation of ‘private international
+law’. Thus, for example, in the case of gTLD registrars not based in the USA,
+it is normally up to the registry to determine its dispute-resolution policy with
+such registrars, although most registries opt for their country of registration
+as venue.68 In practice, this means that a number of courts in different
+countries can technically have jurisdiction to determine disputes between
+60 See further Mueller (n 9). 61 See further Bygrave and others (n 24) 179. 62 See Lessig’s notion of technical code as normative code and Reidenberg’s lex informatica (‘code as code’) -
+L Lessig’s Code and Other Laws of Cyberspace (1st edn Basic Books 1999); J Reidenberg, ‘Lex Informatica: The
+Formulation of Information Policy Rules Through Technology’, (1998) 76 Tex L Rev 553. 63 See Bygrave (n 11) 171. In general, ‘self-regulation’ is taken to mean a private norm created by private
+groups who have ‘rule-making capacities and the means to induce or coerce compliance’ See SF Moore, ‘Law
+and Social Change: The Semi-Autonomous Social Field as an Appropriate Subject of Study’ (1973) 7 L & Soc’y
+Rev 719, 720. 64 Sand (n 52) 876. 65 Rolf H Weber and Romana Weber, Internet of Things: Legal Perspectives (Springer-Verlag 2010) 24. 66 Bygrave (n 11) 172. 67 Dictionnaire Encyclope ́dique de The ́orie et de Sociologie du Droit, A-J Arnaud (ed) (Librairie ge ́ne ́ral de droit et de
+jurisprudence 1988). 68 See eg art 6 in .museum’s Registry Agreement Appendix S Part V.
+64
+EMILY M. WEITZENBOECK
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+non-US gTLD registries and registrars, with the possibility that different laws
+might be applied by such courts as the applicable law with respect to the
+dispute, leading to potentially different or even contradictory outcomes.
+The same observation may be made with regards to the complex dispute
+resolution and choice-of-law clauses in the ccTLD ICANN-RAs.69
+This variety and mishmash of legal and extra-legal regulatory mechanisms
+is typical of hybrids and networks. This is because:
+[n]etworks position themselves between law and non-law, profiting from
+
+the symbolic association with law, but without inflexible legally forma-
+lized positions.70
+
+4.2 – Utility of looking at networks as hybrids
+ICANN is a mixed network with elements from both private and public law
+permeating its constitution. Hybridity is a tool to help one analyse and
+understand the limits of traditional legal categories and descriptions with
+a view to trying to find ways to understand and, if possible, reconcile any
+contradictions that result from such categorization, or from the overlapping
+of such categories.
+Teubner draws a distinction between private networks71 and private–
+public networks. Private networks usually exhibit a paradox as a result of
+what he calls a ‘double bind’ which arises because of the contradictory line of
+
+action a network node could take: either acting to safeguard its own indi-
+vidual ‘selfish’ interests or to safeguard the interest of the collective. This
+
+gives rise to what Teubner calls ‘double attribution’. This means that ‘[o]ne
+and the same economic transaction is attributed twice, to the individual
+actor as the node in the network and to the overarching network itself’.72
+
+Such contradictions arise because networks are a unitas multiplex—a collect-
+ive of multiple individual actors.73 Though the individual actors or stake-
+holders in the network also pursue their own interest, they also pursue a
+
+common interest with the other network parties to realise the overarching
+network purpose. Tensions may arise, for example, between self-interest as
+an autonomous actor and between the interests of the collective, for
+69 See the .eu Registry Agreement (art 6.7) where the validity, interpretation and effects of acts of the
+European Community are to be judged according to the laws of Belgium, whereas the acts of ICANN shall
+be judged according to California law. A similar provision is found in the .au and the .jp Sponsorship
+Agreements. 70 Sand (n 52) 874. 71 See G Teubner, Networks as Connected Contracts (ed with Introduction by H Collins, M Everson tr, Hart
+Publishing 2011) and EM Weitzenboeck, A Legal Framework for Emerging Business Models: Dynamic Networks as
+Collaborative Contracts (Edward Elgar Publishing 2012) ch 7. 72 G Teubner, ‘Hybrid Laws: Constitutionalizing Private Governance Networks’ in R Kagan, M Krygier and K
+
+Winston (eds) Legality and Community (Berkeley Public Policy Press 2002) <http://publikationen.ub.uni-frank-
+furt.de/frontdoor/index/index/docId/3881>. 73 Teubner (n 71) 109–10.
+
+65
+
+THE REGULATORY FRAMEWORK OF ICANN AND THE DNS
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+example, between the role of a registrar vis-a`-vis the other registrars and its
+registry; or between the role of a registry vis-a`-vis the other registries and
+ICANN.
+The complexity is magnified in the case of mixed networks such as ICANN
+where there are private–public cooperative arrangements. The ‘double
+bind’ of private networks turns into a ‘multiple bind’. The conflicts that
+arise are normally not just because of ‘the conflict between collective and
+individual action. Rather it is the conflict of different rationalities in society
+which drives the private-public arrangements into confusion’.74
+
+These different rationalities are evidenced in the unique multi-stake-
+holder structure of ICANN which is made up of representatives of different
+
+‘constituencies’ or ‘stakeholder groups’, often with varying or even conflict-
+ing interests. These stakeholder groups comprise the private and public
+
+sectors, the technical community, the business community, non-commercial
+users, civil society and the GAC. It may happen that, on a particular issue
+relating to internet governance, there is a divergence of opinion between the
+stakeholders. This is normally sought to be resolved by compromise through
+the operation of the multi-stakeholder process.75 ICANN thus attempts in its
+structure to provide a balanced representation of these different stakeholder
+
+groups by giving them a voice in its Board where all decision-making author-
+ity rests.76 The Board is tasked to fulfil, observe and uphold ICANN’s com-
+mitments in the Articles of Incorporation, Bylaws and AOC, all of which
+
+documents invoke the public interest as a guiding principle. The Board
+
+does, nevertheless, also have the power to amend its own Bylaws by a two-
+thirds majority vote.77
+
+Moreover, ICANN’s processes are open, bottom-up and consensus-based,
+drawing on norms derived from internet standards organizations such as the
+IETF.78 One of the most important supporting organizations tasked with the
+development of policy has itself a multi-stakeholder structure, namely the
+GNSO which is responsible for the policy development process (PDP) with
+
+regards to the gTLD. The GNSO comprises members from both stake-
+holders that have a contractual relationship with ICANN (ie registries and
+
+registrars) as well as non-contractual stakeholders (comprising commercial
+stakeholders like intellectual property holders, internet service providers
+74 Teubner (n 72) 18. 75 Where agreement by all stakeholders cannot be reached, the majority view is taken, with room for the
+
+dissenting stakeholders to record their dissent. See eg the dissenting position of the representatives of the Non-
+Commercial Stakeholder Group with response thereto from the At-Large Advisory Committee representative
+
+in the Advice to the ICANN Board submitted by the Consumer Trust Working Group regarding the definitions,
+measures and targets for competition, consumer trust and consumer choice (version 4 dated 5 December 2012
+(Appendix D)). 76 M Mueller, ‘ICANN, Inc.: Accountability and participation in the governance of critical internet resources’
+(2009), retrieved from the Internet Governance Project website <http://www.internetgovernance.org/pdf/
+ICANNInc.pdf>. 77 See Bylaws art XIX. 78 In art 4 of the AOC, the DOC affirms ‘its commitment to a multi-stakeholder, private sector led, bottom-up
+policy development model for DNS technical coordination that acts for the benefit of global Internet users.’
+
+66
+EMILY M. WEITZENBOECK
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+and non-commercial stakeholder groups). So even at the micro level of an
+
+important stakeholder organization like the GNSO, room is given for differ-
+ent voices with vying interests to be heard. The PDP is described in ICANN’s
+
+own Bylaws.
+One may thus observe a system of checks and balances within the structure
+of ICANN and the PDP which, if properly observed, provides a balanced
+
+representation of the various interests in internet governance. The above-
+mentioned basic documents underlying ICANN’s structure and processes79
+
+have undertones of a state constitution, especially when seen together with
+the other regulatory instruments underlying ICANN and its management of
+the DNS.80 A characteristic of mixed networks is that ‘a broader public law
+concept of a network constitution is required which would indeed transfer
+principles of institutional autonomy, constitutional rights, due process, rule
+of law, public accountability to these mixed private-public configurations’.81
+It is also in light of these public law—indeed constitutional law—elements
+that ICANN’s role and function should be interpreted and understood.
+5. Mesh
+The focus of this article now turns to the question of how these different
+types of legal instruments, which are so different in nature and made with
+different legal actors, relate together. How are they to be read and applied
+together so that there is coherence in this legal framework? As mentioned
+earlier, ICANN has been described as a ‘self-constitutionalizing’ body.82
+Both its formal organization as a private law foundation and the instruments
+canvassing its external relations with the abovementioned actors are part of
+
+its constitutional framework. They are the ‘constitutive’ documents of, re-
+spectively, ICANN and the DNS and are, so to speak, their legal sources. An
+
+analogy may be drawn with how the various sources of law operate within a
+state’s legal system.
+As Ost and van de Kerchove explain, the traditional approach in law has
+been to look at regulation and law-making authority as being in the form of a
+
+pyramid with the state at the top as the supreme legislator in both the in-
+ternal legal order and international relations with other sovereign states.
+
+This is Kelsen, Hart and Ross’s view of a political and legal order centred
+round the state.83 In this tradition, the sources of law have a hierarchical
+structure in a state’s internal system with, generally speaking, the state’s
+constitution or similar basic law ranking topmost, followed by statute, in
+turn followed by delegated legislation. Depending on the legal system and
+79 In particular its Articles of Incorporation, Bylaws, AOC. 80 See further Teubner (n 6) 220–23. 81 See Teubner (n 72) 19. 82 See Teubner (n 6) 220–23. 83 Ost and van de Kerchove (n 5) 11.
+67
+
+THE REGULATORY FRAMEWORK OF ICANN AND THE DNS
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+tradition, court judgments may have the binding force of law (eg English
+common law) or merely a persuasive value (eg several civil law systems).
+Within this hierarchy of legal sources one also finds customary law as well
+as contracts and other self-regulatory instruments.
+The previous sections of this article show the well-nigh impossibility of
+applying this traditional view to the regulation of ICANN and the DNS.
+There is no supreme sovereign-making power, no rigid clear-cut territorial
+delimitations of a state where that sovereign rules. ICANN has not been set
+up under Treaty law, although its function and role are of international
+significance in that it manages unique and critical resources of worldwide
+importance.
+In their seminal work on network or ‘mesh’ regulation, Ost and van de
+Kerchove perceive a paradigm shift caused by the profound transformation
+of the state and of modern law. The world, since Kelsen, Hart and Ross were
+
+writing, has changed with the advent of globalization of the financial mar-
+kets, the growing interdependence of economies, the developments in in-
+formation and communication technologies, the advent and ubiquity of the
+
+internet, the appearance of powerful private transnational organizations,
+the rise in importance of human rights and the weakening power of the
+state to take action.84
+This paradigm shift led to what Ost and van de Kerchove call a crisis of the
+
+pyramidal model of regulation.85 It led them to propound that a rival para-
+digm has been progressively emerging—that of the network (re ́seau) model
+
+of regulation, albeit with important remnants of the pyramidal model per-
+sisting.86They explain that with network regulation, the state ceases to be the
+
+sole source of sovereignty (having to share this not just with super-state
+authorities but also with powerful private entities); the will of the legislator
+ceases to be received as dogma (it is accepted only subject to conditions, after
+a complex evaluation process both ahead and after the enactment of a law);
+the borders between fact and law at times become blurred; the different
+powers of the state interact (judges become co-authors of the law and the
+
+sub-delegation of normative power which, in principle was prohibited, multi-
+plies); the juridical systems (and, more broadly, the normative systems)
+
+become entangled; knowledge of the law which traditionally proclaimed
+
+its methodological purity (mono-disciplinary) now leans towards an inter-
+disciplinary mode and is more the result of a learning process than a priori
+
+axioms.87 Moreover, justice, which in the pyramidal model was reduced to
+the hierarchies of values fixed in the law, is today understood in terms of the
+balance of interests and the equilibration of values which are both different
+and variable.88
+84 ibid 12. 85 ibid 13. 86 ibid 14. 87 ibid 14. 88 ibid.
+
+68
+EMILY M. WEITZENBOECK
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+The starting point and focus of Ost and van de Kerchove’s mesh theory of
+regulation is the state’s legal system, namely the effect of globalization and
+internationalization on a state’s ‘internal’ legal order and the interplay of law
+and other forms of regulation within that state’s legal system. They illustrate
+this by looking at the impact of European Union (EU) law on Member States
+
+and describe the EU’s extensive law-making powers as a ‘progressive intru-
+sion in the national legal system’.89 One way in which the potential tension
+
+between EU law and national law is resolved is through the principle of
+subsidiarity, whereby action is taken at an EU level ‘only if and in so far as
+the objectives of the proposed action cannot be sufficiently achieved by the
+Member States and can therefore, by reason of the scale or effects of the
+proposed action, be better achieved by the Community’.90
+ICANN’s role in the management of the DNS has also sometimes led to
+
+tensions with individual states. Though ICANN is a very different legal crea-
+ture to the EU, states have also had to come to some arrangement with
+
+ICANN with regards to the regulation of the ccTLD namespace and, as
+seen in Section 3.3, most ccTLD managers have also embraced a subsidiarity
+principle.
+This article seeks to extend the application of mesh theory to ICANN, a
+private organization with international reach though not a creature of
+
+Treaty law, and its management of the DNS. This article thus takes a differ-
+ent starting point than that taken by Ost and van de Kerchove which has the
+
+state and its regulatory framework as its focus.
+
+Ost and van de Kerchove explain that the move towards network regula-
+tion is the result of two major transformations of the legal and political
+
+landscape: (i) the move from the use of statute as the primary instrument
+of control within a state to other forms of ‘regulation’ such as self-regulation
+
+and (ii) the increased use of the notion of ‘governance’ instead of govern-
+ment.91 As regards the first transformation, the unilateral, authoritarian,
+
+centralized and sovereign authority is giving way to a flexible, decentralized,
+
+adaptive and often negotiated regulation. The second transformation is re-
+flected in the increased popularity of the notion of ‘governance’ in lieu of
+
+‘government’. Government is ‘the conduct of affairs attached to the sover-
+eign state, the imposition of the rules by a public and central authority’.92
+
+Governance, explain Ost and van de Kerchove, is ‘a process of co-ordination
+of actors, of social groups, which are not all attached to the state, nor
+
+89 EU legislation has direct effect on Eumember states. ibid 65. 90 See art 5(3) of the Treaty on European Union. Another mechanism is the doctrine of the supremacy of
+EU law over national law. See further (n 5) 66–68. 91 See Ost and van de Kerchove (n 5) 26–32. 92 See ibid 29 who cite J Comaille and B Jobert, ‘Introduction. La regulation politique: l’e ́mergence d’un
+nouveau regime de conaissance’ in Comaille and Jobert (eds), Les me ́tamorphoses de la re ́gulation politique (LGDJ
+1998) 29.
+
+69
+
+THE REGULATORY FRAMEWORK OF ICANN AND THE DNS
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+state-owned, to attain the aims which have been properly discussed and
+collectively defined in fragmented and uncertain environments’.93
+Other scholars have also discerned ‘the contemporary experience of the
+collapse of hierarchical and centralised notions of law and, on the other, an
+
+understanding of the limited and formal possibilities of established jurispru-
+dential approaches in accounting for this experience’.94 The Finnish project
+
+on polycentricity argues for a polycentric account of the law which thinks not
+only within the traditional boundaries of the law, but also along the limits of
+
+what the law is traditionally seen as ‘not’ being, for example, ‘ethics, moral-
+ity, politics, religion or economics, and, further, values, emotions or experi-
+ences’.95 These different positions from which the law may be taught are
+
+‘polycentres’ or ‘the ‘multiple stages on which law is set to play its act’.96 One
+effect of this approach is the ‘destabilisation of law from a single centre stage
+into the innumerable stages of polycentricity [which] also sets the alleged
+identity and coherence of law into play’.97
+The focus, therefore, cannot just be on the activities of the lawmaker. As
+Reed puts it ‘[s]ocial norms reflect the consensus of a community about how
+its members should behave, and those norms which are given the status of
+law are developed at least as much by the community as by the lawmaker’.98
+
+Murray calls this ‘network communitarianism’ and sees regulation as ‘a pro-
+cess of discourse and dialogue between the individual and society’.99 This is
+
+evidenced in the multi-stakeholder structure of ICANN as discussed in the
+previous section.
+The use of a pyramid as a graphical description is popular in regulatory
+
+discourse. In examining different enforcement mechanisms of state regula-
+tory bodies, Ayres and Braithwaite proposed a pyramid showing different
+
+enforcement strategies with mild self-regulatory measures at the bottom and
+gradually more stringent enforcement measures as one progresses towards
+
+the top of the pyramid.100 However, their pyramid reflected only the regu-
+latory action of one actor: the state. Grabosky extended Ayres and
+
+Braithwaite’s model by proposing a three-dimensional pyramid which, be-
+sides state regulatory action, also takes into account two other institutions
+
+which comprise a regulatory system: (i) regulated entities themselves and
+
+their industry associations; and (ii) third parties, both public interest insti-
+tutions and commercial actors.101
+
+93 ibid. On internet governance, see Bygrave (n 11) 169–70. 94 See LD Eriksson, A Hirvonen, P Minkkinen and J Po ̈yho ̈nen’s’Introduction: A Polytical Manifesto’ in A
+Hirvonen (ed) Polycentricity: The Multiple Scenes of Law (Pluto Press 1998) 7. 95 ibid 5. 96 ibid. 97 ibid. 98 C Reed, Making Laws for Cyberspace (OUP 2012) 11. 99 See A Murray, Information Technology Law: The Law and Society (OUP 2012) 68. 100 I Ayres and J Braithwaite, Responsive Regulation: Transcending the Deregulation Debate (OUP 1992) 38–39. 101 PN Grabosky, ‘Inside the Pyramid: Towards a Conceptual Framework for the Analysis of Regulatory
+Systems’ (1997) 25 Int’l J Soc L 197–98.
+70
+EMILY M. WEITZENBOECK
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+The use of such pyramids by Ayres, Braithwaite, Grabosky and other scho-
+lars102 of the ‘responsive regulation’ school of thought is to illustrate the
+
+escalating levels of enforcement strategies that are available. The higher its
+location in the pyramid, the more coercive is the regulatory instrument. All
+
+of the various enforcement mechanisms, whatever their level, play an im-
+portant enforcement role. Indeed, the use of levels within the pyramid is not
+
+meant to give the impression that the closer a level is to the apex, the more
+effective that enforcement strategy is. Ayres and Braithwaite themselves note
+the paradox that extremely stringent regulatory laws may sometimes cause
+underregulation.103 Thus, for example, withdrawing a license—which is at
+the apex of the enforcement pyramid—though effective, would be drastic
+and ‘morally unacceptable to use it with any but the most extraordinary
+offenses’.104 In this sense, ‘[r]egulators do not have their greatest effects
+by directly sanctioning law-breakers; more important is the indirect effect
+of lending authoritative support to law-abiding constituencies within the
+organization’.105
+The mesh notion of regulation is a better descriptor of the regulatory
+framework of ICANN and the DNS than Ayres and Braithwaite’s notion of
+a pyramid. Ost and van de Kerchove’s concept of network regulation uses
+the metaphor of a ‘network’ or ‘net’ which is weaved from a set of interlinked
+yarns and comprises threads and nodes where the threads interlink.106 Some
+authors also refer to it as ‘mesh regulation’, using a similar metaphor of ‘the
+steel mesh in reinforced concrete structures or the mesh in fishing nets
+
+where, when put together different strands provide a structure much stron-
+ger than that of the individual components’.107 In the mesh model, ‘[t]he
+
+origin of the strands, whether from self-regulation or state regulation is im-
+material: what is important is the flexibility and strength of the structure
+
+provided’.108 The mesh regulatory model comprises regulatory efforts by
+state and non-state actors alike, and includes various types of regulatory
+mechanisms including computer code.
+Schultz also attempts to apply Ost and van de Kerchove’s mesh regulation
+
+to internet regulation. Schultz sees three main categories of actors in cyber-
+space: states, technical actors and users.109 He holds that each of these actors
+
+is the source of a normative flow (un flux normative): (i) states regulate
+through legislation; (ii) technical actors use computer code as the technical
+backbone of cyberspace (lex informatica) and (iii) users regulate behaviour
+through self-regulation. Schultz thus sees three principal sources of norms
+102 See also J Black, ‘Critical Reflections on Regulation’ (2002) 27 Aust J Legal Phil 1–35. 103 Ayres and Braithwaite (n 100) 36. 104 ibid. 105 ibid 33. 106 See Ost and van de Kerchove (n 5) 23. 107 See JP Mifsud Bonnici, Self-Regulation in Cyberspace (TCM Asser Press 2008) 24. 108 ibid. 109 T Schultz, ‘La re ́gulation en re ́sau du cyberespace’ (2005) 55 Revue Interdisciplinaire d’E ́tudes Juridique
+31, 47.
+
+71
+
+THE REGULATORY FRAMEWORK OF ICANN AND THE DNS
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+in cyberspace: statute, lex informatica and self-regulation.110 Each of these
+different actors pursues different objectives and defends divergent interests.
+This means, he claims, that in many cases, this interaction becomes a contest,
+with each actor jostling to impose its norms, leading to a confrontation or
+collision of the normative flow which each actor is seeking to impose.111 The
+rivalry between these models of regulation means that one can hardly know a
+priori which model will govern a certain issue in cyberspace. Schultz holds
+that each actor will expect to impose its model and the probability of an actor
+of achieving that varies from one domain to another, from one problem to
+another.112
+
+Schultz’s thesis of there being three main categories of actors in cyber-
+space, each of which pushes for the use of one of three separate models of
+
+regulation is alluring. Yet I hold that this picture is incomplete and simplis-
+tic. We have seen that there are numerous actors in cyberspace. Indeed, one
+
+of Schultz’s categories—users—can itself be split into various categories,
+each of which is important enough in its own right to be deemed another
+category and not a sub-category, namely business actors, non-commercial
+actors and even, more broadly, civil society or ‘the Internet community’ as
+ICANN’s Articles of Incorporation calls them.113 More importantly, it can
+happen that one group of these ‘users’ (eg business users) has conflicting
+interests to those in another group of ‘users’ (eg non-commercial users).
+Indeed, conflicts may also arise among various types of business users, for
+example, trademark holders and business registrants. Moreover, it is not
+clear whether the term ‘self-regulation’114 used by Schultz includes contract
+within it—in any case it is rather unfortunate that one cannot distinguish
+between binding undertakings (contract) and other so-called ‘soft law’
+mechanisms in Schultz’s thesis. Indeed, as we have seen above, actors may
+not always want to opt for binding contractual rules but prefer ‘soft law’
+mechanisms.
+Another important point that Schultz’s simplified ‘mesh’ model overlooks
+is that it is not always the case that an actor will opt to use the regulatory
+model that Schultz pairs with that actor. Thus, for example, a state may not
+always choose to legislate on an issue, preferring to go for co-regulation with
+a particular branch of industry, or it may choose to enter into a private–
+public agreement with another actor, or perhaps to opt for an informal,
+non-binding arrangement. We have seen this in the various ways national
+authorities have chosen to document their relationship with ICANN in their
+(the state’s) management of their ccTLD.
+Ost and van de Kerchove’s notion of mesh regulation does not have the
+fetters of Schultz’s narrow ‘mesh’ model but encompasses the truly
+110 See further Schultz (n 109) 47. 111 ibid 59. 112 ibid 60–61. 113 See art 4 (n 4). 114 For a definition of self-regulation, see n 63.
+72
+EMILY M. WEITZENBOECK
+
+Downloaded from https://academic.oup.com/ijlit/article/22/1/49/697798 by guest on 14 April 2023
+
+internormative process115 that is evident in the regulation of ICANN and the
+DNS. As we have seen, several different modes of regulation may be needed
+
+to satisfactorily address a particular issue. In the context of internet regula-
+tion this internormative process may be illustrated by examining how the .eu
+
+domain was established. The creation of .eu first required a policy action by
+the ICANN Board which led to the reservation of the two-letters ‘eu’ as the
+
+country code for the European Union in ISO 3166-1. Following the desig-
+nation of EURid as its ccTLD register, through a process of EU legislation,116
+
+ICANN/IANA delegated .eu as a ccTLD to EURid through the .eu RA. In
+
+this illustration, at least three different normative models were used: a policy-
+development process to amend an ISO standard, various EU legislation to
+
+select and set out the terms of reference of the registry and a contract for the
+delegation of the .eu domain. Each of these three regulatory mechanisms
+played an equally important role in this process.
+6. Conclusion
+The various regulatory mechanisms discussed in this article—whether
+
+formal or informal, ‘hard’ or ‘soft’, legal or computer code, statute or self-
+regulation—provide alternative and complementary regulatory devices for
+
+ICANN and the DNS. While lex informatica, self-regulation and state regula-
+tion intertwine and reciprocally complement each other’s rules and pro-
+cesses, each one ‘retains its identity and regulatory strengths’.117 Indeed,
+
+the usefulness of mesh theory as applied to these hybrid networks is the
+insight that the relative importance and authority of each source of rule
+‘is greater or lesser according to the nature of the activity and the other
+
+participants being regulated’.118 Though not free from controversy, in par-
+ticular due to the considerable oversight powers of the USA, the result of this
+
+tapestried and hybrid regulatory framework has been a relatively stable
+framework for DNS governance.
+
+115 On internormativity, see Carbonnier’s definition in Dictionnaire Encyclope ́dique de The ́orie et de Sociologie du
+Droit (n 67). 116 Regulation 733/2002 of 22 April 2002 on the implementation of the .eu Top Level Domain laid down
+how the eventual entity to run the .eu registry would be chosen, its obligations and the policy framework for this
+domain. EURid was formally set up under Belgian law as a private, not-for-profit organization on 8 April 2003
+and was subsequently designated .eu registry through Decision 2003/375/EC. Subsequently, regulation 874/
+2004 of 28 April 2004 set out in greater detail the public policy rules concerning the implementation and
+functions of the .eu TLD such as the accreditation of registrars by the registry, applications for second-level
+domain names, and an ADR procedure to settle domain name disputes. 117 JP Mifsud Bonnici (n 107) 230. 118 ibid.
